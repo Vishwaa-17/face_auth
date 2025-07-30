@@ -33,13 +33,10 @@ The **Face Authentication App** is a mobile-based face recognition system built 
 
 ## 📸 Screenshots
 
-### 🔐 Login Screen
 ![Login](screenshots/login_screen.png)
 
-### 📄 Job Listings
 ![Job Listings](screenshots/job_listings.png)
 
-### 🧑‍💼 Recruiter Dashboard
 ![Dashboard](screenshots/recruiter_dashboard.png)
 
 ---
